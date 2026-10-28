@@ -1,0 +1,6 @@
+{
+  "name": "VIP MEET",
+  "description": "DIARY V.I.P MEET - One World. One Connection. Premium messaging, voice & video calls, groups, and Ubaoni social board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
